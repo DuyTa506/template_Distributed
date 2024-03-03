@@ -1,0 +1,7 @@
+# Project exclude paths
+/target/
+https://github.com/dongquoctoan/LTNC2022/blob/f78e026e19cec21ac63082cec23e9ecb92af359b/src/main/resources/application.properties
+src/main/resources/application.properties
+*.properties
+
+.idea/
